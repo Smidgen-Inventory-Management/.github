@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Smidgen-Inventory-Management">
-    <img src="smidgen_logo.png" alt="Logo" width="400">
+    <img src="https://raw.githubusercontent.com/Smidgen-Inventory-Management/.github/main/profile/smidgen_logo.png" alt="Logo" width="400">
   </a>
 
 <h3 align="center">Smidgen Backend and Data Server</h3>
