@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/Smidgen-Inventory-Management/backend-go">
+  <a href="https://github.com/Smidgen-Inventory-Management">
     <img src="smidgen_logo.png" alt="Logo" width="400">
   </a>
 
